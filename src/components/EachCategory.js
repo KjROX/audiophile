@@ -14,7 +14,7 @@ const EachCategory = ({ imageurl }) => {
         <span className="tracking-widest hover:text-[#D87D4A] text-[#979797] font-bold">
           SHOP
         </span>
-        <span className="text-[#D87D4A] text-3xl translate-x-6 -translate-y-1 text-5xl">
+        <span className="text-[#D87D4A] translate-x-6 -translate-y-1 text-5xl">
           >
         </span>
       </button>

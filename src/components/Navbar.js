@@ -8,16 +8,16 @@ const Navbar = () => {
           </div>
         </div>
         <div className="text-white w-1/3 flex justify-between items-center gap-10">
-          <a href="#" className="tracking-wide">
+          <a href="#" className="tracking-wide hover:text-[#D87D4A]">
             HOME
           </a>
-          <a href="#" className="tracking-wide">
+          <a href="#" className="tracking-wide hover:text-[#D87D4A]">
             HEADPHONES
           </a>
-          <a href="#" className="tracking-wide">
+          <a href="#" className="tracking-wide hover:text-[#D87D4A]">
             SPEAKERS
           </a>
-          <a href="#" className="tracking-wide">
+          <a href="#" className="tracking-wide hover:text-[#D87D4A]">
             EARPHONES
           </a>
         </div>

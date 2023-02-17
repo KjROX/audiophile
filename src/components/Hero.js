@@ -12,12 +12,12 @@ const Hero = () => {
           Experience natural,lifelike audio and exceptional <br /> build quality
           made for the passionate music <br /> enthusiast
         </p>
-        <button className="text-white bg-[#D87D4A] font-bold w-64 py-6">
+        <button className="text-white bg-[#D87D4A] hover:bg-[#FBAF85] font-bold w-64 py-6">
           SEE PRODUCT
         </button>
       </div>
       <div>
-        <img src="./images/image-hero.jpg" alt="" />
+        <img src="./images/image-hero.jpg" alt="" className="w-full" />
       </div>
     </div>
   );
